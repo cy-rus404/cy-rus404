@@ -9,4 +9,4 @@
 - 📫 How to reach me: Twitter:isaacadumoah3
 - 😄 Pronouns: ...HE/SHE
 - ⚡ Fun fact: ...I code 9hours a day 👀
--->
+-->Email me on: sduisaac@gmail.com
