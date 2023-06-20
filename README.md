@@ -1,7 +1,7 @@
  Hi there 👋 I'm Cyrus
 
 
-- 🔭 I’m currently working on ...Web Application
+- 🔭 I’m currently working on ...Web Development
 - 🌱 I’m currently learning ...ReactJS
 - 👯 I’m looking to collaborate on ...ReactJS
 - 🤔 I’m looking for help with ...DJANGO
