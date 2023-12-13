@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ...Web Development, Database management system<br>🌱 I’m currently learning ...ReactJS, MySQL<br>👯 I’m looking to collaborate on ...ReactJS<br>🤔 I’m looking for help with ...NODEJS, MySQL<br>💬 Ask me about ...HTML, CSS, REACT/REACT-NATIVE, PYTHON, JAVASCRIPT, BOOTSTRAP, JAVA, MySQL<br>📫 How to reach me: Twitter:isaacadumoah3<br>😄 Pronouns: ...HE/SHE<br>⚡ Fun fact: ...I code 9hours a day 👀 <br>📩 Email me on: sduisaac@gmail.com
+🔭 I’m currently working on ...Web Development, Database management system<br>🌱 I’m currently learning ...ReactJS, MySQL<br>👯 I’m looking to collaborate on ...ReactNative<br>🤔 I’m looking for help with ...FIREBASE AUTH, MySQL<br>💬 Ask me about ...HTML, CSS, REACT/REACT-NATIVE, PYTHON, JAVASCRIPT, BOOTSTRAP, JAVA, MySQL<br>📫 How to reach me: Twitter:isaacadumoah3, LinkedIn:Isaac Sdu<br>😄 Pronouns: ...HE/SHE<br>⚡ Fun fact: ...I code 9hours a day 👀 <br>📩 Email me on: sduisaac@gmail.com/sduisaac@icloud.com
 
 
 ## 🌐 Socials:
