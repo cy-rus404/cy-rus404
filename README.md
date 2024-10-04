@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React-Native animations<br>👯 I’m looking to collaborate on any project, I'm in<br>🤝 I’m looking for help with Expo-Routing<br>🌱 I’m currently learning React - Native<br>💬 Ask me about anything interesting<br>⚡ Fun fact- I love anime
+🔭 I’m currently working on React-Native animations<br>👯 I’m looking to collaborate on any project, I'm in<br>🤝 I’m looking for help with Expo-Routing<br>🌱 I’m currently learning React - Native<br>💬 Ask me about anything interesting<br>⚡ Fun fact- I love anime and code every single day
 
 
 ## 🌐 Socials:
