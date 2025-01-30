@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 👨‍💻 All of my projects are available at [cycoces.netlify.app](cycoces.netlify.app)
+- 👨‍💻 All of my projects are available at [cycodes.netlify.app](cycodes.netlify.app)
 
 - 💬 Ask me about **Software Development**
 
