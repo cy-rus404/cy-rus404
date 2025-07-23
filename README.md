@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EduCore(React Native)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native/Typescript**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
