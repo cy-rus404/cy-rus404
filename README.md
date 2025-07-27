@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Adumoah</h1>
-<h3 align="center">A passionate frontend/ React Native developer from Ghana</h3>
+<h3 align="center">A passionate frontend / React Native developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cy-rus404&label=Profile%20views&color=0e75b6&style=flat" alt="cy-rus404" /> </p>
 
